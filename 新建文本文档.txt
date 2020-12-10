@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jbjbj
+=======
+dsdsd
+>>>>>>> new
